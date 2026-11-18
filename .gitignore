@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build & typecheck artifacts
+build/
+dist/
+coverage/
+server.js
+*.tsbuildinfo
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Runtime local fallback DB & uploads
+.data/
+uploads/
+
+# Platform & IDE metadata
+.aistudio/
+.vscode/
+.idea/
+
+# OS & logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+

@@ -1,0 +1,6 @@
+{
+  "name": "CLOUD VALLEY — Samalbong Resort",
+  "description": "Boutique Himalayan nature retreat in Samalbong, West Bengal. Explore forest suites, farm-to-table dining, mountain experiences, and online reservation requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
